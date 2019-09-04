@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.idea": true,
+        "**/.next": true,
+        "**/node_modules": true,
+        "**/.linaria-cache": true
+    },
+    "files.watcherExclude": {
+        ".gitkeep": true
+    },
+    "workbench.list.openMode": "doubleClick"
+}
