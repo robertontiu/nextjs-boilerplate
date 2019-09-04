@@ -1,0 +1,23 @@
+# Cache / Errors
+.DS_Store
+yarn-error.log
+npm-debug.log
+.eslintcache
+
+# Node modules
+node_modules
+
+# Next generated files
+.next/
+
+# Webstorm .idea
+.idea
+
+# Linaria cache
+.linaria-cache
+
+# dist
+dist
+
+# vscode
+.vscode 
